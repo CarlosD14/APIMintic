@@ -1,0 +1,30 @@
+
+header h1{
+    text-align: center;
+}
+
+tbody tr:hover{
+    background-color: rgb(212, 252, 252);
+}
+.container{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 1%;
+}
+
+#loadTable, #dropdownMenu2{
+    margin: 1%;
+    padding: 2%;
+    width: 100%;
+    font-size: 17px;
+}
+
+.dropdown-menu button{
+    width: 100%;
+}
+
+.tablecontainer{
+    width: 90%;
+    margin: auto;
+}
+
